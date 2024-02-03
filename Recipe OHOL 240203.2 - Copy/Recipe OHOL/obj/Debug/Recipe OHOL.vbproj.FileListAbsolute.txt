@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Debug\Recipe OHOL.exe.config
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Debug\Recipe OHOL.exe
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Debug\Recipe OHOL.pdb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Debug\Recipe OHOL.xml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.vbprojAssemblyReference.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\MainWindow.g.vb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Application.g.vb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL_MarkupCompile.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL_MarkupCompile.lref
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\MainWindow.baml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.g.resources
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe_OHOL.Resources.resources
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.exe
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.xml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Debug\Recipe OHOL.pdb

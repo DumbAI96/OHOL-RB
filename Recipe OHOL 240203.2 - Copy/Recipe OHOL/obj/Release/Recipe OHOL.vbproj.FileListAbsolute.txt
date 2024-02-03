@@ -1,0 +1,16 @@
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Release\Recipe OHOL.exe.config
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Release\Recipe OHOL.exe
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Release\Recipe OHOL.pdb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\bin\Release\Recipe OHOL.xml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\MainWindow.g.vb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Application.g.vb
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL_MarkupCompile.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL_MarkupCompile.lref
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\MainWindow.baml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.g.resources
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe_OHOL.Resources.resources
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.vbproj.GenerateResource.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.vbproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.exe
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.xml
+D:\Visual Studio 2017\Recipe OHOL\Recipe OHOL\Recipe OHOL\obj\Release\Recipe OHOL.pdb
