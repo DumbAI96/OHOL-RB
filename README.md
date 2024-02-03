@@ -1,0 +1,1 @@
+Just copy the executable to your OHOL Folder. It works with the Steam version as well as the non-Steam. It works with any version of the game (as long as the file structure remains the same). Tested with OHOL v395-v409
